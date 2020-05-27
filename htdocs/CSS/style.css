@@ -1,0 +1,16 @@
+.list-persos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+    background-color: black; 
+    padding: 1rem;
+}
+
+li{
+    list-style: none;
+}
+
+
+.btn{
+    background-color: darkcyan;
+}
